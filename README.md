@@ -1,8 +1,9 @@
 ##  Olá, meu nome é <strong>Rosinês !</strong>
 
 Sou desenvolvedora front-End<br>
-Conheça  um pouco mais sorbe o  trabalho no meu portifolio<br>
-https://portifolio-rosines-almeida.vercel.app/
+Conheça  um pouco mais sobre mim no meu 
+<a href= "https://portifolio-rosines-almeida.vercel.app/" target="_blank">portfólio</a>.
+
 
  ## 🚀 Minhas Skills
  
