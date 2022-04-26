@@ -1,6 +1,6 @@
 ##  Olá, meu nome é <strong>Rosinês !</strong>
 
-Sou desenvolvedora front-End<br>
+Sou desenvolvedora de software com foco em front end.<br>
 Conheça  um pouco mais sobre mim no meu 
 <a href= "https://portifolio-rosines-almeida.vercel.app/" target="_blank">portfólio</a>.
 
